@@ -3,6 +3,6 @@ spring:
     name: springcloud-config-dev
   cloud:
     config:
-      info: version2
+      info: version1
   profiles:
     active: dev
